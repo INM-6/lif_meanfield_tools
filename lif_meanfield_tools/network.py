@@ -349,7 +349,7 @@ class Network(object):
         """
         Save network to h5 file.
         
-        The networks' dictionaires (network_params, analysis_params, results,
+        The networks' dictionaries (network_params, analysis_params, results,
         results_hash_dict) are stored. Quantities are converted to value-unit
         dictionaries.
         
@@ -367,7 +367,7 @@ class Network(object):
         """
         Load network from h5 file.
         
-        The networks' dictionaires (network_params, analysis_params, results,
+        The networks' dictionaries (network_params, analysis_params, results,
         results_hash_dict) are loaded.
         
         Note: The network's state is overwritten!
