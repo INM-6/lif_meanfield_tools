@@ -10,7 +10,7 @@ the following scientific publications: [Fourcaud & Brunel (2002)](https://doi.or
 [Schuecker et al. (2014)](https://arxiv.org/abs/1410.8799),
 [Schuecker et al. (2015)](https://doi.org/10.1103/PhysRevE.92.052119),
 [Schuecker et al. (2017)]( https://doi.org/10.1371/journal.pcbi.1005179),
-[Bos et al. (2016)](https://dx.doi.org/10.1371%2Fjournal.pcbi.1005132) and
+[Bos et al. (2016)](https://dx.doi.org/10.1371%2Fjournal.pcbi.1005132), and
 [Senk et al. (2020)](https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.2.023174).
 
 Using this package, you can calculate quantities like firing rates, power
