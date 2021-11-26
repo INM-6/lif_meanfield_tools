@@ -1,3 +1,6 @@
+**The development of the toolbox continues in a new repository: [NNMT](https://github.com/INM-6/nnmt)**
+----------------------------------------------------------------------------------------------------------------------
+
 LIF Meanfield Tools
 ====================
 
@@ -19,12 +22,6 @@ understanding of what your network does. If your network is not behaving the
 way you want it to, these tools might help you to figure out, or even tell you,
 what you need to change in order to achieve the desired behaviour. The toolbox
 allows storing results and reuse them for further analyses.
-
-The package is alive. We are continuously trying to improve and simplify its
-usage. We are always happy about feedback. So please do not hesitate to contact
-us. If you encounter a problem or have a feature request, you can open an
-[Issue](https://github.com/INM-6/lif_meanfield_tools/issues). Contributions are
-always welcome via [Pull requests](https://github.com/INM-6/lif_meanfield_tools/pulls).
 
 If you are using this toolbox, please cite us: For a specific release, we recommend to use the reference from [Zenodo](https://zenodo.org/). Otherwise, you can also provide a link to this repository with the hash of the respective commit.
 In addition, please also cite the publications that used the methods implemented here first. In [How to Use This Package](#how-to-use-this-package) you can find details on which function of this package refers to which publication.
